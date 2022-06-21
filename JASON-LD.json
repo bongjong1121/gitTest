@@ -1,0 +1,12 @@
+{
+	"@context": {
+		"name": "http://schema.org/name",
+		"image": {
+			"@id": "http://schema.org/image",
+			"@type": "@id"
+		}
+	},
+	"name": "YOON DAEGEUN",
+	"image": "https://www.example.com/myImage",
+	"homepage": "https://www.example/com"
+}
